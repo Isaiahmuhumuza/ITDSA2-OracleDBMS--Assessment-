@@ -1,4 +1,4 @@
-               DROP TABLE USES;
+DROP TABLE USES;
 DROP TABLE Activity;
 DROP TABLE Rooms;
 DROP TABLE Facility;
